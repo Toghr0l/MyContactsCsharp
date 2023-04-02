@@ -1,0 +1,13 @@
+C:/Users/MoDanger/source/repos/MyContacts/MyContacts/bin/Debug/MyContacts.exe.config
+C:/Users/MoDanger/source/repos/MyContacts/MyContacts/bin/Debug/MyContacts.exe
+C:/Users/MoDanger/source/repos/MyContacts/MyContacts/bin/Debug/MyContacts.pdb
+C:/Users/MoDanger/source/repos/MyContacts/MyContacts/obj/Debug/MyContacts.csprojAssemblyReference.cache
+C:/Users/MoDanger/source/repos/MyContacts/MyContacts/obj/Debug/MyContacts.Form1.resources
+C:/Users/MoDanger/source/repos/MyContacts/MyContacts/obj/Debug/MyContacts.Properties.Resources.resources
+C:/Users/MoDanger/source/repos/MyContacts/MyContacts/obj/Debug/MyContacts.csproj.GenerateResource.cache
+C:/Users/MoDanger/source/repos/MyContacts/MyContacts/obj/Debug/MyContacts.csproj.CoreCompileInputs.cache
+C:/Users/MoDanger/source/repos/MyContacts/MyContacts/obj/Debug/MyContacts.exe
+C:/Users/MoDanger/source/repos/MyContacts/MyContacts/obj/Debug/MyContacts.pdb
+C:/Users/MoDanger/source/repos/MyContacts/MyContacts/obj/Debug/MyContacts.frmAddOrEdit.resources
+/home/modanger/OneDrive/Documents/Codes/Csharp-code/Projects/MyContacts/MyContacts/MyContacts/obj/Debug/MyContacts.exe
+/home/modanger/OneDrive/Documents/Codes/Csharp-code/Projects/MyContacts/MyContacts/MyContacts/obj/Debug/MyContacts.pdb
